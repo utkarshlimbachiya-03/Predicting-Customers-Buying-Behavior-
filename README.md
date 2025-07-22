@@ -81,7 +81,7 @@ The most important factors with coustomers wants extra baggage are:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
-- Imbalanced-learn (for SMOTE)
+- Imbalanced-learn
 
 
 
